@@ -181,5 +181,10 @@ body {
   position: relative;
   opacity: 1;
 }
+.font-style {
+    font-family: 'Dancing Script', cursive;
+    /* Opcional: define um peso específico se quiser garantir */
+    font-weight: 700; 
+}
 
 
