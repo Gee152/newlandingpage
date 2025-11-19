@@ -1,6 +1,6 @@
 /* HERO FULLSCREEN */
 .hero {
-  background: url('assets/teste.jpeg')
+  background: url('./assets/teste.jpeg')
   center/cover no-repeat;
   height: 100vh !important; /* altura estilo o da imagem que enviou */
   position: relative;
@@ -181,4 +181,5 @@ body {
   position: relative;
   opacity: 1;
 }
+
 
